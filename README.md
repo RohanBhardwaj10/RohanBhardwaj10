@@ -1,9 +1,40 @@
-## Hi there 👋 ROHAN BHARDWAJ 
+<h1 align="left">Hi there 👋 I'm Rohan Bhardwaj</h1>
 
-- 🔭 I’m currently working on AI Chatbot Project
-- 🌱 I’m currently learning FastAPI & DSA in C++
-- 💬 Ask me about Generative AI & Machine Learning
-- 📫 How to reach me: bhardwajrohan10@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I m proficient in AI & Related field 
--->
+### 👨‍💻 About Me  
+- 🔭 Currently working on: **AI Chatbot Project**  
+- 🌱 Currently learning: **FastAPI**, **DSA in C++**  
+- 💬 Ask me about: **GenAI, Machine Learning, Deep Learning, LLMs, LangChain, FastAPI**  
+- 📫 Reach me at: **bhardwajrohan10@gmail.com**  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I love building AI systems that solve real-world problems.
+
+---
+
+### 🛠️ Tech Stack  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,html,css,js,react,nodejs,express,mongodb,git,github" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/rohan-bhardwaj-b92b7a264/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanBhardwaj10&show_icons=true&theme=default" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBhardwaj10&layout=compact&theme=default" height="160px"/>
+</p>
+
+---
+
+### 📈 Contribution Graph  
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanBhardwaj10&theme=minimal"/>
+</p>
