@@ -19,22 +19,20 @@
 
 ### 🌐 Connect with Me  
 <p>
-  <a href="https://www.linkedin.com/in/rohan-bhardwaj-b92b7a264/">
+  <a href="https://www.linkedin.com/in/rohan-bhardwaj-b92b7a264/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40px" />
   </a>
-</p>
 
+  <a href="mailto:bhardwajrohan10@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40px" />
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanBhardwaj10&show_icons=true&theme=default" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBhardwaj10&layout=compact&theme=default" height="160px"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph  
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanBhardwaj10&theme=minimal"/>
-</p>
