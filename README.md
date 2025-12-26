@@ -30,10 +30,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanBhardwaj10&layout=compact&theme=default" height="160px"/>
-</p>
-
----
 
