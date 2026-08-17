@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋 I'm Rohan Bhardwaj</h1>
 
 ### 👨‍💻 About Me  
-- 🔭 Currently working on: **AI Chatbot Project**  
+- 🔭 Currently working on: **Venture AI**  
 - 🌱 Currently learning: **FastAPI**, **DSA in C++**  
 - 💬 Ask me about: **GenAI, Machine Learning, Deep Learning, LLMs, LangChain, FastAPI**  
 - 📫 Reach me at: **bhardwajrohan10@gmail.com**  
